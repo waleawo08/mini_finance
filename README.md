@@ -189,7 +189,7 @@ As part of the course, I worked on the **Mini Finance Project**, where I:
 🔗 Here’s my **Pull Request (PR)**: [GitHub PR Link]  
 My **Udemy Course Completion Certificate**: [Attach Screenshot]  
 
-A big thank you to **@[Pravin Mishra](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)** for designing this practical course! Looking forward to applying these skills in my projects.  
+A big thank you to **@[Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/)** for designing this practical course! Looking forward to applying these skills in my projects.  
 
 #Git #GitHub #CloudAdvisory #DevOps #Learning #VersionControl  
 
