@@ -21,7 +21,7 @@ The **[Mini Finance](https://www.tooplate.com/live/2135_mini_finance)** project 
 ---
 
 ## **📌 What You Will Learn?**  
-By working on this project, you will practice **Git & GitHub in real-world workflows**, including:  
+By working on this project, you will practice **Git & GitHub in real-world workflows**, including:  das
 
 🔹 **Cloning a Repository** – Work with remote repositories on GitHub.  
 🔹 **Branching in Git** – Create and switch between feature branches.  
