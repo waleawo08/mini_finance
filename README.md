@@ -219,7 +219,7 @@ Once you've made your LinkedIn post:
 
 See you in the **LinkedIn network!** 🎉
 
-
+Note: Minor update for GitHub assignment.
 
 Assignment Note
 
