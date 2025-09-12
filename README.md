@@ -224,3 +224,5 @@ See you in the **LinkedIn network!** 🎉
 Assignment Note
 
 This project demonstrates Git operations like clone, pull, push, and creating a Pull Request—a hands-on Mini-Finance tool.
+
+You may write: “This project demonstrates Git operations like clone, pull, push, PR—a hands-on Mini-Finance tool.”
