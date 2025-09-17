@@ -8,6 +8,7 @@ You have just joined CloudAdvisory as a new developer. Your first assignment is 
 
 This is not just an academic exercise—you will follow **industry-standard Git workflows** and **collaborate just like real developers do**. At the end of this project, you will submit a **Pull Request (PR)** to the **CloudAdvisory GitHub repository**, which will be reviewed by our team.
 
+
 ---
 
 ## **🎯 Project Overview: What is Mini Finance?**  
@@ -17,6 +18,9 @@ The **[Mini Finance](https://www.tooplate.com/live/2135_mini_finance)** project 
 ✅ **Profile Page** – Stores user details like name, email, and contact information.  
 ✅ **My Wallet** – Allows users to manage payment methods.  
 ✅ **Settings & Help Center** – Enables users to update preferences and seek assistance.  
+
+## About This Project
+This project demonstrates Git operations like clone, pull, push, and PR — a hands-on Mini-Finance tool.
 
 ---
 
