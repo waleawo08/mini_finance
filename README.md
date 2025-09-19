@@ -157,6 +157,8 @@ git push origin feature-alex-smith
 
 🚀 **Now your PR is ready for review!** Our team will check your changes, provide feedback, and merge them if everything looks good.
 
+
+This project demonstrates Git operations like clone, pull, push, Pull Request (PR),a hands-on Mini-Finance tool.
 ---
 
 ## **📢 Bonus Challenge**
