@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="author" content="Tooplate">
 
-        <title>Mini Finance Dashboard Template</title>
+        <title>Mini Finance — Simple Personal Budget Tracker</title>
 
         <!-- CSS FILES -->      
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -40,7 +40,7 @@ Bootstrap 5 Dashboard Admin Template
             <div class="col-md-3 col-lg-3 me-0 px-3 fs-6">
                 <a class="navbar-brand" href="index.html">
                     <i class="bi-box"></i>
-                    Mini Finance
+                    Mini Finance — Simple Personal Budget Tracker
                 </a>
             </div>
 
@@ -48,8 +48,8 @@ Bootstrap 5 Dashboard Admin Template
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <form class="custom-form header-form ms-lg-3 ms-md-3 me-lg-auto me-md-auto order-2 order-lg-0 order-md-0" action="#" method="get" role="form">
-                <input class="form-control" name="search" type="text" placeholder="Search" aria-label="Search">
+            <form class="custom-form header-form col-md-6 d-flex justify-content-end" action="#" method="get" role="form">
+                <input class="form-control w-75" name="search" type="text" placeholder="Search" aria-label="Search">
             </form>
 
             <div class="navbar-nav me-lg-2">
@@ -173,8 +173,8 @@ Bootstrap 5 Dashboard Admin Template
                                     <img src="images/medium-shot-happy-man-smiling.jpg" class="profile-image img-fluid me-3" alt="">
 
                                     <div class="d-flex flex-column">
-                                        <small>Thomas</small>
-                                        <a href="#">thomas@site.com</a>
+                                        <small>Curwen</small>
+                                        <a href="#">curwen@site.com</a>
                                     </div>
                                 </div>
                             </li>
@@ -272,7 +272,7 @@ Bootstrap 5 Dashboard Admin Template
                     <div class="title-group mb-3">
                         <h1 class="h2 mb-0">Overview</h1>
 
-                        <small class="text-muted">Hello Thomas, welcome back!</small>
+                        <small class="text-muted"><b>Track expenses, spot trends, and stay on budget — fast.</b></small>
                     </div>
 
                     <div class="row my-4">
@@ -297,7 +297,7 @@ Bootstrap 5 Dashboard Admin Template
 
                                     <div class="ms-auto">
                                         <small>Card Holder</small>
-                                        <p>Thomas</p>
+                                        <p>Curwen</p>
                                     </div>
                                 </div>
                             </div>
@@ -433,14 +433,14 @@ Bootstrap 5 Dashboard Admin Template
                                 <p class="d-flex flex-wrap mb-2">
                                     <strong>Name:</strong>
 
-                                    <span>Thomas Edison</span>
+                                    <span>Curwen Arthurs</span>
                                 </p>
 
                                 <p class="d-flex flex-wrap mb-2">
                                     <strong>Email:</strong>
                                     
                                     <a href="#">
-                                        thomas@site.com
+                                        curwen@site.com
                                     </a>
                                 </p>
 
@@ -583,9 +583,13 @@ Bootstrap 5 Dashboard Admin Template
                             <div class="row">
                                 
                                 <div class="col-lg-12 col-12">
+                                    <p>Mini Finance v1.0 — Deployed on <span id ="date"></span> - By Curwen Arthurs</p>
                                     <p class="copyright-text">Copyright © Mini Finance 2048 
                                     - Design: <a rel="sponsored" href="https://www.tooplate.com" target="_blank">Tooplate</a></p>
                                 </div>
+                                  <footer>
+    <p>Mini Finance v1.0 - Deployed on 2 sep 2025 - By Gautam Kevadiya</p>
+  </footer>
 
                             </div>
                         </div>
@@ -594,6 +598,12 @@ Bootstrap 5 Dashboard Admin Template
 
             </div>
         </div>
+
+        <script>
+            document.getElementById('date').textContent = new Date().toLocaleDateString(undefined, {
+                year: 'numeric', month: 'long', day: 'numeric'
+            });
+        </script>
 
         <!-- JAVASCRIPT FILES -->
         <script src="js/jquery.min.js"></script>
