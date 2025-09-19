@@ -249,12 +249,8 @@ See you in the **LinkedIn network!** 🎉
 
 Note: Minor update for GitHub assignment.
 =======
-This project demonstrates Git operations like clone, pull, push, PR—a hands-on Mini-Finance tool.
+
+This project demonstrates Git operations like clone, pull, push, and creating a Pull Request—a hands-on Mini-Finance tool.
 
 
-
-This project demonstrates Git operations like clone, pull, push, PR—a hands-on Mini-Finance tool.
-
-
-This project demonstrates Git operations like clone, pull, push, PR—a hands-on Mini-Finance tool.
 
