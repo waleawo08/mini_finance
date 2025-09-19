@@ -8,6 +8,9 @@ This project demonstrates Git operations like clone, pull, push, PR—a hands-on
 -- Adrina Colaco
 
 This project is part of My Udemy Course [Git & GitHub for Absolute Beginners with Project](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)
+## Assignment Note
+
+This project demonstrates Git operations like clone, pull, push, PR—a hands-on Mini-Finance tool.
 
 **Welcome to CloudAdvisory!**  
 
