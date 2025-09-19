@@ -24,6 +24,8 @@ This is not just an academic exercise—you will follow **industry-standard Git 
 ## GitHub Assignment Note
 This project demonstrates Git operations like clone, pull, push, and creating a Pull Request—a hands-on Mini-Finance tool.
 
+## ** This project demonstrates Git operations like **clone, pull, push, PR** — a hands-on Mini-Finance tool.
+
 ## **🎯 Project Overview: What is Mini Finance?**  
 The **[Mini Finance](https://www.tooplate.com/live/2135_mini_finance)** project is a **static website** that helps users manage their financial data. The key sections include:
 
