@@ -17,9 +17,6 @@ This project demonstrates Git operations like clone, pull, push, PR—a hands-on
 
 You have just joined CloudAdvisory as a new developer. Your first assignment is to contribute to the **Mini Finance Project**, a **personal finance dashboard** designed for tracking **transactions, expenses, and user profiles**.
 
-This is not just an academic exercise—you will follow **industry-standard Git workflows** and **collaborate just like real developers do**. At the end of this project, you will submit a **Pull Request (PR)** to the **CloudAdvisory GitHub repository**, which will be reviewed by our team.
-
-
 ---
 ## GitHub Assignment Note
 This project demonstrates Git operations like clone, pull, push, and creating a Pull Request—a hands-on Mini-Finance tool.
