@@ -260,5 +260,3 @@ Note: Minor update for GitHub assignment.
 This project demonstrates Git operations like clone, pull, push, and creating a Pull Request—a hands-on Mini-Finance tool.
 
 
-Assignment Note V1
-This line is added as part of Assignment given in Udemy course.
