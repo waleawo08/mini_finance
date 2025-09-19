@@ -39,7 +39,11 @@ Your first **development task** is to update the **Profile Page** by modifying u
 ### **Step 1: Clone the Mini Finance Repository**
 
 1️⃣ Open **Git Bash** or your terminal.  
-2️⃣ Navigate to your project folder:
+
+2️⃣ Navigate to your project folder: 
+
+This project demonstrates Git operations like clone, pull, push, PR—a hands-on Mini-Finance tool.”
+
 
 ```sh
 cd path/to/your/projects
