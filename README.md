@@ -27,9 +27,9 @@ This project demonstrates Git operations like clone, pull, push, and PR — a ha
 
 ---
 
-## **📌 What You Will Learn?**
+## **📌 What You Will Learn?**  
+By working on this project, you will practice **Git & GitHub in real-world workflows**, including:  das
 
-By working on this project, you will practice **Git & GitHub in real-world workflows**, including:
 
 🔹 **Cloning a Repository** – Work with remote repositories on GitHub.  
 🔹 **Branching in Git** – Create and switch between feature branches.  
