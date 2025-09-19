@@ -235,6 +235,8 @@ Once you've made your LinkedIn post:
 This project demonstrates Git operations like clone, pull, push, PR—a hands-on Mini-Finance tool.
 
 ### **🎯 Final Thought**  
+## Assignment Note
+This project demonstrates Git operations like clone, pull, push, PR—a hands-on Mini-Finance tool.
 💡 **Learning is great, but showcasing your skills is even better!** By sharing your achievement, you're taking a **big step towards building your professional reputation** in the industry.  
 
 
